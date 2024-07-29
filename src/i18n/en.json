@@ -1,0 +1,29 @@
+{
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "button": "Login",
+      "error": "Invalid credentials"
+    },
+
+    "skills": {
+        "skills": "Skills"
+    },
+
+    "languages": {
+        "languages": "Languages"
+    },
+
+    "experience": {
+        "experience": "Experiences"
+    },
+
+    "education": {
+        "education": "Education"
+    },
+
+    "awards": {
+        "awards": "Awards"
+    }
+}  

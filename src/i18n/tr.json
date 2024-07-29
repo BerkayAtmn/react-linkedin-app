@@ -1,0 +1,31 @@
+{
+    "login": {
+      "title": "Giriş",
+      "username": "Kullanıcı Adı",
+      "password": "Parola",
+      "button": "Giriş",
+      "error": "Geçersiz bilgi"
+    },
+
+    "skills": {
+        "skills": "Yetenekler"
+    },
+
+    "languages": {
+        "languages": "Diller"
+    },
+
+    "experience": {
+        "experience": "Deneyimler"
+    },
+
+    "education": {
+        "education": "Eğitim"
+    },
+
+    "awards": {
+        "awards": "Ödüller"
+    }
+  }
+  
+  
