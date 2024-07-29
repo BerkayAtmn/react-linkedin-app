@@ -1,3 +1,5 @@
+YOU NEED TO HAVE NODE MODULES AND BUILD FILE IN ORDER TO RUN THIS PROGRAM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
