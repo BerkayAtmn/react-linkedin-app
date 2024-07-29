@@ -1,0 +1,60 @@
+{
+  "user": {
+    "id": "1",
+    "profile": {
+      "name": "Walter White",
+      "title": "Software Engineer",
+      "location": "Albuquerque, New Mexico",
+      "workplace": "Microsoft",
+      "education": "Bilkent University",
+      "profilePicture": "../../images/walter.png"
+    },
+    "experience": [
+      {
+        "role": "Senior Software Engineer",
+        "company": "Microsoft",
+        "duration": "2018-Present",
+        "description": "Leading a team of developers to build scalable software solutions."
+      },
+      {
+        "role": "Software Engineer",
+        "company": "Google",
+        "duration": "2015-2018",
+        "description": "Developed various web applications and contributed to open-source projects."
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "education": [
+      {
+        "school": "Bilkent University",
+        "degree": "B.Sc. in Computer Science",
+        "duration": "2010-2014",
+        "description": "Focused on software development, algorithms, and data structures."
+      }
+    ],
+    "awards": [
+      "Received the 'Employee of the Year' award at Microsoft in 2020.",
+      "Awarded 'Best Project' at Google Hackathon in 2017."
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  "profile": {
+    "name": "a",
+    "title": "Software Engineer",
+    "location": "New York",
+    "workplace": "Tech Company",
+    "education": "Computer Science",
+    "profilePicture": "../../images/download.jpg"
+  }
+}
